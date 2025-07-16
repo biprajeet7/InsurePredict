@@ -11,4 +11,4 @@ This project aims to predict customer conversion for an insurance company using 
   
 ### Prerequisites
 - Python 3.8+
-- Libraries: Pandas, NumPy, Scikit-learn, Matplotlib/Seaborn, (others if applicable)
+- Libraries: Pandas, NumPy, Scikit-learn, Matplotlib
